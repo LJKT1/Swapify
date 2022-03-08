@@ -1,6 +1,6 @@
 # Swapify
 
-_A mobile app build for the purpose of people exchanging items between each other with no monetary involvement. The goal of this project was to build a platform that won't charge you for listing your items and users can post an item with an ease._
+_A mobile app build for the purpose of people exchanging items between each other with no monetary involvement. The goal of this project was to build a platform that won't charge you for listing your items and users can post an item with ease._
 
 ## Meet the team
 
@@ -14,7 +14,7 @@ _A mobile app build for the purpose of people exchanging items between each othe
 
 ## Watch demo
 
-If you want to learn more about this project and watch our demo follow the link bellow
+If you want to learn more about this project and watch our demo follow the link below
 (northcoderslink.com)
 
 ---
@@ -23,8 +23,8 @@ If you want to learn more about this project and watch our demo follow the link 
 
 - React Native
 - Expo
-- Firebase firestore
-- Firebase authetication
+- Firebase Firestore
+- Firebase authentication
 - Trello
 - Excalidraw
 - Git & GitHub
@@ -39,10 +39,10 @@ To run this app on your computer, make sure you have version [**NodeJS v16.11.0*
 
 ## Download
 
-You can find the repository on [**GitHub**](https://github.com/Nesh00/swapping-app) and clone it down or just download the ZIP file.
+You can find the repository on [**GitHub**](https://github.com/LJKT1/Swapify) and clone it down or just download the ZIP file.
 
 ```
-git clone https://github.com/Nesh00/swapping-app
+git clone https://github.com/LJKT1/Swapify
 
 ```
 
